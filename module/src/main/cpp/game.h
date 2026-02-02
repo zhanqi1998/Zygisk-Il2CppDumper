@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.ShuiSha.FPS2"
+#define GamePackageName "com.tencent.rmcn"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
